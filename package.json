@@ -1,0 +1,27 @@
+{
+  "name": "chils-mental-healt-data",
+  "version": "1.0.0",
+  "description": "functions for child mental health data sets",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHemsley/child-mental-health-data.git"
+  },
+  "keywords": [
+    "child",
+    "mental",
+    "health",
+    "MHSDS",
+    "CAMHS",
+    "CORC"
+  ],
+  "author": "Mark Hemsley <markwhemsley@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHemsley/child-mental-health-data/issues"
+  },
+  "homepage": "https://github.com/MHemsley/child-mental-health-data#readme"
+}

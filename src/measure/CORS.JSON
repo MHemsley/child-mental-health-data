@@ -1,0 +1,25 @@
+{
+  "questionnaire_name": "Child Outcome Rating Scale",
+  "abreviation": "CORS",
+  "num_of_q": "4",
+  "answer_type":"scale",
+  "q_values": [
+    {
+      "question": "1",
+
+    },
+    {
+      "question": "2",
+    },
+    {
+      "question": "3",
+
+    },
+    {
+      "question": "4",
+        },
+
+  ]
+  ,
+  "total":"false"
+}

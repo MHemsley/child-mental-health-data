@@ -1,0 +1,66 @@
+{
+  "name": "Session Feedback Questionnaire",
+  "abreviation": "SFQ",
+  "num_of_q": "4",
+  "q_values": [
+    {
+      "question": "1",
+      "values": [
+        {"name":"Not at all",
+          "value": 1},
+        {"name": "Only a little",
+          "value": 2},
+          {"name": "Somewhat",
+            "value": 3},
+          {"name": "Quite a bit",
+          "value": 4},
+          {"name": "Totally",
+            "value": 5}]
+    },
+    {
+      "question": "2",
+      "values": [
+        {"name":"Not at all",
+          "value": 1},
+        {"name": "Only a little",
+          "value": 2},
+          {"name": "Somewhat",
+            "value": 3},
+          {"name": "Quite a bit",
+          "value": 4},
+          {"name": "Totally",
+            "value": 5}]
+    },
+    {
+      "question": "3",
+      "values": [
+        {"name":"Not at all",
+          "value": 1},
+        {"name": "Only a little",
+          "value": 2},
+          {"name": "Somewhat",
+            "value": 3},
+          {"name": "Quite a bit",
+          "value": 4},
+          {"name": "Totally",
+            "value": 5}]
+    },
+    {
+      "question": "4",
+      "values": [
+        {"name":"Not at all",
+          "value": 1},
+        {"name": "Only a little",
+          "value": 2},
+          {"name": "Somewhat",
+            "value": 3},
+          {"name": "Quite a bit",
+          "value": 4},
+          {"name": "Totally",
+            "value": 5}]
+    },
+
+  ]
+  ,
+  "total":"false"
+}

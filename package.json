@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/MHemsley/child-mental-health-data/issues"
   },
-  "homepage": "https://github.com/MHemsley/child-mental-health-data#readme"
+  "homepage": "https://github.com/MHemsley/child-mental-health-data#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.0.2"
+  }
 }

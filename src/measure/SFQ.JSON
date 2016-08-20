@@ -8,7 +8,7 @@
     "q_values": [{
             "question_num": "1",
             "question": "Did you feel listened to?",
-            "values": [{
+            "answers": [{
                 "response": "Not at all",
                 "value": 1
             }, {
@@ -29,7 +29,7 @@
             "question_num": "2",
             "question": "Did you talk about what you wanted to
             talk about ? ",
-            "values" : [{
+            "answers" : [{
                 "response": "Not at all",
                 "value": 1
             }, {
@@ -49,7 +49,7 @@
 
             "question_num": "3",
             "question": "Did you understand the things said in the meeting ? ",
-            "values": [{
+            "answers": [{
                 "response": "Not at all",
                 "value": 1
             }, {
@@ -69,7 +69,7 @@
 
             "question_num": "4",
             "question": "Did you feel the meeting gave you ideas for what to do?",
-            "values": [{
+            "answers": [{
                 "response": "Not at all",
                 "value": 1
             }, {

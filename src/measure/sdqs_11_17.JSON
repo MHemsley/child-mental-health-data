@@ -4,20 +4,578 @@
   "num_of_q": "",
   "age_range": [11,17],
   "answer_type": "likeart",
+  "sub_scales": true,
   "q_values": [
     {
       "question_num": 1,
-      "question" :
-      "values" : [
-        {
+      "question" :"I try to be nice to other people. I care about their feelings",
+      "answers" : [{
           "response": "Not True",
+          "value": "",
 
         },
         {
-          "respone": "Somewhat True"
-        }
-      ]
-    },
+          "respone": "Somewhat True",
+          "value": "",
+        },
+        {
+          "response": "Certainly True",
+          "value": "",
+        }]},
+        {
+          "question_num": 2,
+          "question" :"I am restless, I cannot stay still for long",
+          "answers" : [{
+              "response": "Not True",
+              "value": "",
+
+            },
+            {
+              "respone": "Somewhat True",
+              "value": "",
+            },
+            {
+              "response": "Certainly True",
+              "value": "",
+            }]},
+            {
+              "question_num": 3,
+              "question" :"I get a lot of headaches, stomach-aches or sickness",
+              "answers" : [{
+                  "response": "Not True",
+                  "value": "",
+
+                },
+                {
+                  "respone": "Somewhat True",
+                  "value": "",
+                },
+                {
+                  "response": "Certainly True",
+                  "value": "",
+                }]},
+                {
+                  "question_num": 4,
+                  "question" :"I usually share with others (food, games, pens etc.)",
+                  "answers" : [{
+                      "response": "Not True",
+                      "value": "",
+
+                    },
+                    {
+                      "respone": "Somewhat True",
+                      "value": "",
+                    },
+                    {
+                      "response": "Certainly True",
+                      "value": "",
+                    }]},
+                    {
+                      "question_num": 5,
+                      "question" : "I get very angry and often lose my temper",
+                      "answers" : [{
+                          "response": "Not True",
+                          "value": "",
+
+                        },
+                        {
+                          "respone": "Somewhat True",
+                          "value": "",
+                        },
+                        {
+                          "response": "Certainly True",
+                          "value": "",
+                        }]},
+                        {
+                          "question_num": 6,
+                          "question" :"I am usually on my own. I generally play alone or keep to myself",
+                          "answers" : [{
+                              "response": "Not True",
+                              "value": "",
+
+                            },
+                            {
+                              "respone": "Somewhat True",
+                              "value": "",
+                            },
+                            {
+                              "response": "Certainly True",
+                              "value": "",
+                            }]},
+                            {
+                              "question_num": 7,
+                              "question" : "I do as I am told",
+                              "answers" : [{
+                                  "response": "Not True",
+                                  "value": "",
+
+                                },
+                                {
+                                  "respone": "Somewhat True",
+                                  "value": "",
+                                },
+                                {
+                                  "response": "Certainly True",
+                                  "value": "",
+                                }]},
+                                {
+                                  "question_num": 8,
+                                  "question" : "I worry a lot",
+                                  "answers" : [{
+                                      "response": "Not True",
+                                      "value": "",
+
+                                    },
+                                    {
+                                      "respone": "Somewhat True",
+                                      "value": "",
+                                    },
+                                    {
+                                      "response": "Certainly True",
+                                      "value": "",
+                                    }]},
+                  {
+                    "question_num": 9,
+                    "question" : "I am helpful if someone is hurt, upset or feeling ill",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 10,
+                    "question" : "I am constantly fidgeting or squirming",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 11,
+                    "question" : "I have one good friend or more",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 12,
+                    "question" : "I fight a lot. I can make other people do what I want",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 13,
+                    "question" : "I am often unhappy, down-hearted or tearful",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 14,
+                    "question" : "Other people my age generally like me",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 15,
+                    "question" : "I am easily distracted, I find it difficult to concentrate",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 16,
+                    "question" : "I am nervous in new situations. I easily lose confidence",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 17,
+                    "question" : "I am kind to younger children",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 18,
+                    "question" : "I am often accused of lying or cheating",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 19,
+                    "question" : "Other children or young people pick on me or bully me",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 20,
+                    "question" : "I often volunteer to help others (parents, teachers, children)",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 21,
+                    "question" : "I think before I do things",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 22,
+                    "question" : "I take things that are not mine from home, school or elsewhere",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 23,
+                    "question" : "I get on better with adults than with people my own age",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 24,
+                    "question" : "I have many fears, I am easily scared",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {
+                    "question_num": 25,
+                    "question" : "I finish the work I'm doing. My attention is good",
+                    "answers" : [{
+                        "response": "Not True",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "Somewhat True",
+                        "value": "",
+                      },
+                      {
+                        "response": "Certainly True",
+                        "value": "",
+                      }]
+                  },
+                  {"question_num": 26,
+                  "question" : "Overall, do you think that you have difficulties in one or more of the following areas:
+emotions, concentration, behaviour or being able to get on with other people?",
+                  "answers" : [{
+                      "response": "No",
+                      "value": "",
+
+                    },
+                    {
+                      "respone": "Yes - minor difficulties",
+                      "value": "",
+                    },
+                    {
+                      "response": "Yes - definite difficulties",
+                      "value": "",
+                    },
+                    {
+                      "response": "Yes - severe difficulties",
+                      "value": "",
+                    }]},
+                    {"question_num": 27,
+                    "question" : "How long have these difficulties been present?",
+                    "answers" : [{
+                        "response": "Less than a month",
+                        "value": "",
+
+                      },
+                      {
+                        "respone": "1-5 months",
+                        "value": "",
+                      },
+                      {
+                        "response": "6-12 months",
+                        "value": "",
+                      },
+                      {
+                        "response": "Over a year",
+                        "value": "",
+                      }]},
+                      {"question_num": 28,
+                      "question" : "Do the difficulties upset or distress you?",
+                      "answers" : [{
+                          "response": "Less than a month",
+                          "value": "",
+
+                        },
+                        {
+                          "respone": "1-5 months",
+                          "value": "",
+                        },
+                        {
+                          "response": "6-12 months",
+                          "value": "",
+                        },
+                        {
+                          "response": "Over a year",
+                          "value": "",
+                        }]},
+                        {"question_num": 29,
+                        "question" : "Do the difficulties inerfere with your home life",
+                        "answers" : [{
+                            "response": "Not at all",
+                            "value": "",
+
+                          },
+                          {
+                            "respone": "Only a little",
+                            "value": "",
+                          },
+                          {
+                            "response": "Quite a lot",
+                            "value": "",
+                          },
+                          {
+                            "response": "A great deal",
+                            "value": "",
+                          }]},
+                          {"question_num": 30,
+                          "question" : "Do the difficulties inerfere with your friendships",
+                          "answers" : [{
+                              "response": "Not at all",
+                              "value": "",
+
+                            },
+                            {
+                              "respone": "Only a little",
+                              "value": "",
+                            },
+                            {
+                              "response": "Quite a lot",
+                              "value": "",
+                            },
+                            {
+                              "response": "A great deal",
+                              "value": "",
+                            }]},
+                            {"question_num": 31,
+                            "question" : "Do the difficulties inerfere with your classroom learning",
+                            "answers" : [{
+                                "response": "Not at all",
+                                "value": "",
+
+                              },
+                              {
+                                "respone": "Only a little",
+                                "value": "",
+                              },
+                              {
+                                "response": "Quite a lot",
+                                "value": "",
+                              },
+                              {
+                                "response": "A great deal",
+                                "value": "",
+                              }]},
+                              {"question_num": 33,
+                              "question" : "Do the difficulties inerfere with your leisure activities",
+                              "answers" : [{
+                                  "response": "Not at all",
+                                  "value": "",
+
+                                },
+                                {
+                                  "respone": "Only a little",
+                                  "value": "",
+                                },
+                                {
+                                  "response": "Quite a lot",
+                                  "value": "",
+                                },
+                                {
+                                  "response": "A great deal",
+                                  "value": "",
+                                }]},
+                                {"question_num": 33,
+                                "question" : "Do the difficulties make it harder for those around you (family, friends, teachers, etc.)?",
+                                "answers" : [{
+                                    "response": "Not at all",
+                                    "value": "",
+
+                                  },
+                                  {
+                                    "respone": "Only a little",
+                                    "value": "",
+                                  },
+                                  {
+                                    "response": "Quite a lot",
+                                    "value": "",
+                                  },
+                                  {
+                                    "response": "A great deal",
+                                    "value": "",
+                                  }]},
 
   ]
   ,

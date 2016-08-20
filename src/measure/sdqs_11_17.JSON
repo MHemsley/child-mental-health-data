@@ -1,65 +1,22 @@
 {
-  "questionnaire_name": "Session Feedback Questionnaire",
-  "abreviation": "SFQ",
-  "num_of_q": "4",
-  "age_range": [8,18],
+  "questionnaire_name": "Strength and Difficulties Questionnaire",
+  "abreviation": "SDQ",
+  "num_of_q": "",
+  "age_range": [11,17],
   "answer_type": "likeart",
   "q_values": [
     {
-      "question_num": "1",
-      "values": [
-        {"response":"Not at all",
-          "value": 1},
-        {"response": "Only a little",
-          "value": 2},
-          {"response": "Somewhat",
-            "value": 3},
-          {"response": "Quite a bit",
-          "value": 4},
-          {"response": "Totally",
-            "value": 5}]
-    },
-    {
-      "question_num": "2",
-      "values": [
-        {"response":"Not at all",
-          "value": 1},
-        {"response": "Only a little",
-          "value": 2},
-          {"response": "Somewhat",
-            "value": 3},
-          {"response": "Quite a bit",
-          "value": 4},
-          {"response": "Totally",
-            "value": 5}]
-    },
-    {
-      "question_num": "3",
-      "values": [
-        {"response":"Not at all",
-          "value": 1},
-        {"response": "Only a little",
-          "value": 2},
-          {"response": "Somewhat",
-            "value": 3},
-          {"response": "Quite a bit",
-          "value": 4},
-          {"response": "Totally",
-            "value": 5}]
-    },
-    {
-      "question_num": "4",
-      "values": [
-        {"response":"Not at all",
-          "value": 1},
-        {"response": "Only a little",
-          "value": 2},
-          {"response": "Somewhat",
-            "value": 3},
-          {"response": "Quite a bit",
-          "value": 4},
-          {"response": "Totally",
-            "value": 5}]
+      "question_num": 1,
+      "question" :
+      "values" : [
+        {
+          "response": "Not True",
+
+        },
+        {
+          "respone": "Somewhat True"
+        }
+      ]
     },
 
   ]

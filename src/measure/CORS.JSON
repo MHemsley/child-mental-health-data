@@ -3,20 +3,21 @@
   "abreviation": "CORS",
   "num_of_q": "4",
   "answer_type":"scale",
+  "sub_scales": false,
   "q_values": [
     {
-      "question": "1",
+      "question_num": "1",
 
     },
     {
-      "question": "2",
+      "question_num": "2",
     },
     {
-      "question": "3",
+      "question_num": "3",
 
     },
     {
-      "question": "4",
+      "question_num": "4",
         },
 
   ]

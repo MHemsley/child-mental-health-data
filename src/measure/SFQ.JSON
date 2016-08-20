@@ -6,6 +6,7 @@
   "answer_type": "likeart",
   "q_values": [
     {
+      "question": "Did you feel listened to?",
       "question_num": "1",
       "values": [
         {"response":"Not at all",
@@ -20,6 +21,8 @@
             "value": 5}]
     },
     {
+      "question": "Did you talk about what you wanted to
+talk about?",
       "question_num": "2",
       "values": [
         {"response":"Not at all",
@@ -34,6 +37,8 @@
             "value": 5}]
     },
     {
+      "question" : "Did you understand the things said
+in the meeting?",
       "question_num": "3",
       "values": [
         {"response":"Not at all",
@@ -48,6 +53,7 @@
             "value": 5}]
     },
     {
+      "question": "Did you feel the meeting gave you ideas for what to do?", 
       "question_num": "4",
       "values": [
         {"response":"Not at all",

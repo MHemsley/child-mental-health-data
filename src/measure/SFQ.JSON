@@ -25,10 +25,8 @@
                 "value": 5
             }]
         }, {
-
             "question_num": "2",
-            "question": "Did you talk about what you wanted to
-            talk about ? ",
+            "question": "Did you talk about what you wanted to talk about?",
             "answers" : [{
                 "response": "Not at all",
                 "value": 1
@@ -85,7 +83,7 @@
                 "response": "Totally",
                 "value": 5
             }]
-        },
+        }
 
     ],
     "total": "false"

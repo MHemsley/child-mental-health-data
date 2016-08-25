@@ -1,0 +1,30 @@
+{
+  "questionnaire_name" : "Health of Nations",
+  "abreviation" : "HoNOSCA",
+  "number_of_q" : 13,
+  "age_range" : [13,18],
+  "answer_type" : "likeart",
+  "sub_scales" : false,
+  "q_values" : [{
+    "question_num" : 1,
+    "question" : "Have you been troubled by your disruptive behaviour, physical or verbal aggression?",
+    "answers" : [{
+          "response" : "Not at all"
+      },
+      {
+        "response" : "Insignificantly"
+      },
+      {
+        "response" : "Mild but definitely"
+      },
+      {
+        "response" : "Moderately"
+      },
+      {
+        "response" : "severely"
+      }
+    ]
+  }
+
+  ]
+}
